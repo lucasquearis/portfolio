@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.59dd08b6.chunk.css",
+    "main.js": "/portfolio/static/js/main.558fc003.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.558fc003.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.4d9422e2.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.4d9422e2.js.map",
+    "static/js/2.05c317c8.chunk.js": "/portfolio/static/js/2.05c317c8.chunk.js",
+    "static/js/2.05c317c8.chunk.js.map": "/portfolio/static/js/2.05c317c8.chunk.js.map",
+    "static/js/3.b03982c3.chunk.js": "/portfolio/static/js/3.b03982c3.chunk.js",
+    "static/js/3.b03982c3.chunk.js.map": "/portfolio/static/js/3.b03982c3.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.59dd08b6.chunk.css.map": "/portfolio/static/css/main.59dd08b6.chunk.css.map",
+    "static/js/2.05c317c8.chunk.js.LICENSE.txt": "/portfolio/static/js/2.05c317c8.chunk.js.LICENSE.txt",
+    "static/media/aboutMe.6668fd11.png": "/portfolio/static/media/aboutMe.6668fd11.png",
+    "static/media/appReceitas.1399a780.mp4": "/portfolio/static/media/appReceitas.1399a780.mp4",
+    "static/media/blueprint.5f1e8bd1.png": "/portfolio/static/media/blueprint.5f1e8bd1.png",
+    "static/media/contact.eef1f173.png": "/portfolio/static/media/contact.eef1f173.png",
+    "static/media/css3-plain.4f50b33a.svg": "/portfolio/static/media/css3-plain.4f50b33a.svg",
+    "static/media/github.44eee0c4.png": "/portfolio/static/media/github.44eee0c4.png",
+    "static/media/globe.52fe2bfc.png": "/portfolio/static/media/globe.52fe2bfc.png",
+    "static/media/html5-plain.69274ea2.svg": "/portfolio/static/media/html5-plain.69274ea2.svg",
+    "static/media/instagram.e719d8b2.png": "/portfolio/static/media/instagram.e719d8b2.png",
+    "static/media/javascript-plain.bacc3387.svg": "/portfolio/static/media/javascript-plain.bacc3387.svg",
+    "static/media/logical-thinking.1c45b846.png": "/portfolio/static/media/logical-thinking.1c45b846.png",
+    "static/media/mongodb-plain.3e7ca792.svg": "/portfolio/static/media/mongodb-plain.3e7ca792.svg",
+    "static/media/mysql-plain.d5bba8da.svg": "/portfolio/static/media/mysql-plain.d5bba8da.svg",
+    "static/media/nodejs-plain.ad2a9a88.svg": "/portfolio/static/media/nodejs-plain.ad2a9a88.svg",
+    "static/media/pixelArts.7e0c8d25.webm": "/portfolio/static/media/pixelArts.7e0c8d25.webm",
+    "static/media/profilePhoto.08d163a0.jpg": "/portfolio/static/media/profilePhoto.08d163a0.jpg",
+    "static/media/react-original.4e0c9700.svg": "/portfolio/static/media/react-original.4e0c9700.svg",
+    "static/media/redux.7fe607aa.svg": "/portfolio/static/media/redux.7fe607aa.svg",
+    "static/media/trybe.5896742f.png": "/portfolio/static/media/trybe.5896742f.png",
+    "static/media/whatsapp.0a14b1bd.png": "/portfolio/static/media/whatsapp.0a14b1bd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d9422e2.js",
+    "static/js/2.05c317c8.chunk.js",
+    "static/css/main.59dd08b6.chunk.css",
+    "static/js/main.558fc003.chunk.js"
+  ]
+}
