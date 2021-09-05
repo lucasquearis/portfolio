@@ -1,0 +1,58 @@
+.trybe-img{
+  max-width: 100%;
+  border-radius: 16px;
+}
+
+.aboutMe{
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.section-title{
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.aboutMe-container{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 16px 0px;
+}
+
+.aboutMe-left{
+  display: inline-block;
+  flex-direction: column;
+  max-width: 50%;
+  font-size: 20px;
+  text-align: center;
+}
+
+.aboutMe-left p{
+  padding: 0px 30px;
+}
+
+.aboutMe-rigth{
+  display: inline-block;
+  width: 50%;
+}
+
+@media only screen and (max-width: 720px){
+  .aboutMe-container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .aboutMe-left{
+    max-width: 100%;
+    font-size: 16px;
+    margin-bottom: 12px;
+  }
+
+  .aboutMe-rigth{
+    max-width: 100%;
+  }
+}
