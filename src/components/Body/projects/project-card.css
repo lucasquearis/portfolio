@@ -1,6 +1,7 @@
 .demo-icon, .github-icon {
   width: 25px;
 };
+
 .project-card{
   display: flex;
   flex: 1;

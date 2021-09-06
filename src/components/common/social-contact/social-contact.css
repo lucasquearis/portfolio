@@ -1,6 +1,12 @@
 .social-icon{
   width: 40px;
+  transition: ease-out 0.3s;
 }
+
+.social-icon:hover{
+  width: 55px;
+}
+
 .social-contact{
   display: flex;
   flex-wrap: wrap;
