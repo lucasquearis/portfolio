@@ -10,13 +10,13 @@ const About = () => (
         <img className="picture" src={ profilePhoto } alt="Myself" />
       </div>
       <div className="about-info">
-        Hello There, I am;
+        Hello There, I am
         <br />
         <span className="info-name">Lucas A. Santos</span>
-        .
+        ,
         <br />
         {' '}
-        and you are welcome to my portfolio
+        and you are welcome to my portfolio.
       </div>
     </div>
     <SocialContact />

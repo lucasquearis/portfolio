@@ -1,6 +1,7 @@
-.option-icon{
-  width: 25px;
+.header{
+  min-height: 100px;
 }
+
 .web{
   display: flex;
   flex: 1;
@@ -11,6 +12,11 @@
   font-size: 20px;
   margin-right: 16px;
   font-weight: 700;
+  transition: ease-out 0.3s;
+}
+
+.web-option:hover{
+  font-size: 25px;
 }
 
 .web-option a{
@@ -22,6 +28,7 @@
 .option-icon{
   display: flex;
   align-items: center;
+  width: 25px;
   margin-right: 4px;
 }
 
