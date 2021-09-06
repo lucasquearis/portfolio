@@ -10,13 +10,13 @@ const AboutMe = () => (
     <div className="aboutMe-container">
       <div className="aboutMe-left">
         <p>
-          Sou de Curitiba 🏠
+          I&apos;m Brazilian, I live in Curitiba, Paraná. 🏠
         </p>
         <p>
-          Estudante da Trybe, atualmente no módulo de back-end 👨‍💻
+          Trybe student, currently in the backend module 👨‍💻
         </p>
-        <p>Muito animado para entrar no mercado de trabalho ⌨</p>
-        <p>Sou apaixonado por tecnologia e jogos! 🎮</p>
+        <p>Very excited to become a developer ⌨</p>
+        <p>I&apos;m passionate about technology and games! 🎮</p>
       </div>
       <div className="aboutMe-rigth">
         <img className="trybe-img" src={ trybe } alt="trybe" />

@@ -7,7 +7,7 @@ const ProjectData = [
   {
     id: 1,
     title: 'Pixel Arts',
-    about: 'Um dos meus primeiros projetos e um dos meus favoritos, basicamente você seleciona uma cor da paleta de cores, e pinta os pixels. ',
+    about: 'One of my first projects and one of my favorites, you basically select a color from the color palette, and paint the pixels. ',
     tags: ['HTML', 'CSS', 'JavaScript Vanilla'],
     demo: 'https://lucasquearis.github.io/pixelarts/',
     github: 'https://github.com/tryber/sd-012-project-pixels-art/pull/105',
@@ -16,8 +16,8 @@ const ProjectData = [
   },
   {
     id: 2,
-    title: 'App de Receitas',
-    about: 'Um aplicativo com receitas de diversos lugares do mundo, diversas bebidas, ingredientes, temperos, tudo isso em um só lugar.',
+    title: 'Recipe App',
+    about: 'An application with recipes from different places in the world, different drinks, ingredients, spices, all in one place.',
     tags: ['ReactJS', 'ContextAPI', 'Hooks', 'CSS', 'localStorage', 'API'],
     demo: 'https://lucasquearis.github.io/app-receitas/',
     github: 'https://github.com/lucasquearis/app-receitas',
@@ -27,7 +27,7 @@ const ProjectData = [
   {
     id: 3,
     title: 'Wallet',
-    about: 'Um site de conversão de moedas, utilizando uma API para conversão em tempo real da cotação da moeda',
+    about: 'A currency conversion site using an API for real-time currency quote conversion.',
     tags: ['ReactJS', 'Redux', 'CSS', 'API'],
     demo: 'https://lucasquearis.github.io/wallet/',
     github: 'https://github.com/lucasquearis/wallet',
