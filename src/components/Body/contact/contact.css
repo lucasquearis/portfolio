@@ -8,15 +8,15 @@
   font-size: 32px;
   font-weight: 700;
 }
-
+/* 
 .contact-container{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   margin: 16px 0px;
-}
+} */
 
-.contact-left {
+.contact-container {
   max-width: 100%;
   font-size: 20px;
   text-align: center;
