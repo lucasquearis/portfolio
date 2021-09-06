@@ -17,7 +17,7 @@ const ProjectData = [
   {
     id: 2,
     title: 'Recipe App',
-    about: 'An application with recipes from different places in the world, different drinks, ingredients, spices, all in one place.',
+    about: 'An application with recipes from different places in the world, different drinks, ingredients, spices, all in one place. NOTE: use fictitious email and password',
     tags: ['ReactJS', 'ContextAPI', 'Hooks', 'CSS', 'localStorage', 'API'],
     demo: 'https://lucasquearis.github.io/app-receitas/',
     github: 'https://github.com/lucasquearis/app-receitas',
@@ -27,7 +27,7 @@ const ProjectData = [
   {
     id: 3,
     title: 'Wallet',
-    about: 'A currency conversion site using an API for real-time currency quote conversion.',
+    about: 'A currency conversion site using an API for real-time currency quote conversion. NOTE: use fictitious email and password',
     tags: ['ReactJS', 'Redux', 'CSS', 'API'],
     demo: 'https://lucasquearis.github.io/wallet/',
     github: 'https://github.com/lucasquearis/wallet',
