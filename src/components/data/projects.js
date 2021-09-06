@@ -1,6 +1,7 @@
 /* eslint-disable max-len */
 import pixelArts from '../../media/pixelArts.webm';
 import appReceitas from '../../media/appReceitas.mp4';
+import wallet from '../../media/wallet.png';
 
 const ProjectData = [
   {
@@ -22,6 +23,16 @@ const ProjectData = [
     github: 'https://github.com/lucasquearis/app-receitas',
     type: 'video/mp4',
     video: appReceitas,
+  },
+  {
+    id: 3,
+    title: 'Wallet',
+    about: 'Um site de conversão de moedas, utilizando uma API para conversão em tempo real da cotação da moeda',
+    tags: ['ReactJS', 'Redux', 'CSS', 'API'],
+    demo: 'https://lucasquearis.github.io/wallet/',
+    github: 'https://github.com/lucasquearis/wallet',
+    type: 'png',
+    image: wallet,
   },
 ];
 
