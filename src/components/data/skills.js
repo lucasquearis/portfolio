@@ -6,6 +6,7 @@ import javaScript from '../../images/languages/javascript-plain.svg';
 import mysql from '../../images/languages/mysql-plain.svg';
 import mongoDB from '../../images/languages/mongodb-plain.svg';
 import nodeJS from '../../images/languages/nodejs-plain.svg';
+import jest from '../../images/languages/jest-plain.svg';
 
 const SkillsData = [
   {
@@ -19,21 +20,26 @@ const SkillsData = [
       },
       {
         id: 2,
+        name: 'Jest',
+        icon: jest,
+      },
+      {
+        id: 3,
         name: 'Redux',
         icon: redux,
       },
       {
-        id: 3,
+        id: 4,
         name: 'HTML',
         icon: html,
       },
       {
-        id: 4,
+        id: 5,
         name: 'CSS3',
         icon: css,
       },
       {
-        id: 5,
+        id: 6,
         name: 'JavaScript',
         icon: javaScript,
       },

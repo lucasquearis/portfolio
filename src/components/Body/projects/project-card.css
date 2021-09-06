@@ -54,11 +54,15 @@
   display: flex;
 }
 
+.project-link :hover{
+  background-color: rgb(89, 193, 140);
+}
+
 .link-button{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: aquamarine;
+  background-color: orange;
   width: max-content;
   padding: 4px 8px;
   border-radius: 4px;
