@@ -22,8 +22,12 @@
 .project-info{
   display: inline-block;
   vertical-align: middle;
-  margin: 0px;
-  width: 50%;
+  margin: 0 1px;
+  width: 49%;
+}
+
+.project-info p {
+  width: 90%;
 }
 
 .project-title{

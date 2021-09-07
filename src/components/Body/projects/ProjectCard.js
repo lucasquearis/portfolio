@@ -22,7 +22,12 @@ const ProjectCard = ({ project }) => {
         <h3 className="project-title">{project.title}</h3>
         <div className="project-links">
           {project.demo && (
-            <a className="project-link" href={ project.demo }>
+            <a
+              target="_blank"
+              rel="noreferrer"
+              className="project-link"
+              href={ project.demo }
+            >
               <div className="link-button">
                 <img className="demo-icon" src={ linkImg } alt={ project.title } />
                 Demo
@@ -30,7 +35,12 @@ const ProjectCard = ({ project }) => {
             </a>
           )}
           {project.github && (
-            <a className="project-link" href={ project.github }>
+            <a
+              target="_blank"
+              rel="noreferrer"
+              className="project-link"
+              href={ project.github }
+            >
               <div className="link-button">
                 <img className="github-icon" src={ github } alt={ project.title } />
                 Github

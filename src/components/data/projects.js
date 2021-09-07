@@ -2,6 +2,7 @@
 import pixelArts from '../../media/pixelArts.webm';
 import appReceitas from '../../media/appReceitas.mp4';
 import wallet from '../../media/wallet.png';
+import starWars from '../../media/star-wars-logo.png';
 
 const ProjectData = [
   {
@@ -33,6 +34,16 @@ const ProjectData = [
     github: 'https://github.com/lucasquearis/wallet',
     type: 'png',
     image: wallet,
+  },
+  {
+    id: 4,
+    title: 'Star Wars',
+    about: 'This project was quite challenging, we used a library of Star Wars planets, I used cascading filters to filter the planets, I challenged myself and managed to make it responsive.',
+    tags: ['ReactJS', 'ContextAPI', 'CSS', 'API'],
+    demo: 'https://lucasquearis.github.io/star-wars-project/',
+    github: 'https://github.com/lucasquearis/star-wars-project',
+    type: 'png',
+    image: starWars,
   },
 ];
 
