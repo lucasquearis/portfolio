@@ -7,6 +7,8 @@ import mysql from '../../images/languages/mysql-plain.svg';
 import mongoDB from '../../images/languages/mongodb-plain.svg';
 import nodeJS from '../../images/languages/nodejs-plain.svg';
 import jest from '../../images/languages/jest-plain.svg';
+import express from '../../images/languages/express-original.svg';
+import npm from '../../images/languages/npm-original-wordmark.svg';
 
 const SkillsData = [
   {
@@ -63,6 +65,16 @@ const SkillsData = [
         id: 3,
         name: 'NodeJS',
         icon: nodeJS,
+      },
+      {
+        id: 4,
+        name: 'NPM',
+        icon: npm,
+      },
+      {
+        id: 5,
+        name: 'Express',
+        icon: express,
       },
     ],
   },
