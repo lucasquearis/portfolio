@@ -9,6 +9,7 @@ import nodeJS from '../../images/languages/nodejs-plain.svg';
 import jest from '../../images/languages/jest-plain.svg';
 import express from '../../images/languages/express-original.svg';
 import npm from '../../images/languages/npm-original-wordmark.svg';
+import docker from '../../images/languages/docker-original.svg';
 
 const SkillsData = [
   {
@@ -75,6 +76,11 @@ const SkillsData = [
         id: 5,
         name: 'Express',
         icon: express,
+      },
+      {
+        id: 6,
+        name: 'Docker',
+        icon: docker,
       },
     ],
   },
