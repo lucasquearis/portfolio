@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.24a3c8e6.chunk.css",
-    "main.js": "/portfolio/static/js/main.87e49e88.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.87e49e88.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.3d887094.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3d887094.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.4d9422e2.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.4d9422e2.js.map",
     "static/js/2.05c317c8.chunk.js": "/portfolio/static/js/2.05c317c8.chunk.js",
@@ -16,6 +16,7 @@
     "static/media/cancel.4b422da3.png": "/portfolio/static/media/cancel.4b422da3.png",
     "static/media/contact.e8dd427d.png": "/portfolio/static/media/contact.e8dd427d.png",
     "static/media/css3-plain.4f50b33a.svg": "/portfolio/static/media/css3-plain.4f50b33a.svg",
+    "static/media/docker-original.1d41320c.svg": "/portfolio/static/media/docker-original.1d41320c.svg",
     "static/media/express-original.4925c012.svg": "/portfolio/static/media/express-original.4925c012.svg",
     "static/media/globe.07157e23.png": "/portfolio/static/media/globe.07157e23.png",
     "static/media/html5-plain.69274ea2.svg": "/portfolio/static/media/html5-plain.69274ea2.svg",
@@ -39,6 +40,6 @@
     "static/js/runtime-main.4d9422e2.js",
     "static/js/2.05c317c8.chunk.js",
     "static/css/main.24a3c8e6.chunk.css",
-    "static/js/main.87e49e88.chunk.js"
+    "static/js/main.3d887094.chunk.js"
   ]
 }
