@@ -3,6 +3,7 @@ import pixelArts from '../../media/pixelArts.webm';
 import appReceitas from '../../media/appReceitas.mp4';
 import wallet from '../../media/wallet.png';
 import starWars from '../../media/star-wars-logo.png';
+import freeToPlayGames from '../../media/free-to-play-games.png';
 
 const ProjectData = [
   {
@@ -44,6 +45,16 @@ const ProjectData = [
     github: 'https://github.com/lucasquearis/project-starwars',
     type: 'png',
     image: starWars,
+  },
+  {
+    id: 5,
+    title: 'Free to play Games',
+    about: 'An application that offers you a variety of free games. Personal project made to reinforce and remember the front-end contents.',
+    tags: ['ReactJS', 'ContextAPI', 'CSS', 'API'],
+    demo: 'https://free-to-play-project.vercel.app/',
+    github: 'https://github.com/lucasquearis/free-to-play-project',
+    type: 'png',
+    image: freeToPlayGames,
   },
 ];
 
